@@ -19,7 +19,9 @@ dependencies:
   - seaborn
   - sphinx
   - tqdm
+  - mdanalysis
   - pip:
     - pyvis
     - py3Dmol
+    - git+https://github.com/chemosim-lab/ProLIF.git
 

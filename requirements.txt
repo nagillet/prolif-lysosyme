@@ -2,6 +2,7 @@ numpy
 matplotlib
 panda
 mdanalysis
-python-rdkit
 scipy
 tdqm
+git+https://github.com/chemosim-lab/ProLIF.git
+

@@ -4,5 +4,6 @@ panda
 mdanalysis
 scipy
 tdqm
+https://github.com/rdkit/homebrew-rdkit
 git+https://github.com/chemosim-lab/ProLIF.git
 

@@ -1,9 +1,0 @@
-numpy
-matplotlib
-panda
-mdanalysis
-scipy
-tdqm
-https://github.com/rdkit/rdkit/archive/Release_XXXX_XX_X.tar.gz
-git+https://github.com/chemosim-lab/ProLIF.git
-

@@ -2,4 +2,24 @@ name: prolif
 channels:
   - conda-forge
   - defaults
-prefix: /home/ngillet/anaconda3/envs/prolif
+  - anaconda
+  - defaults
+dependencies:
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - pandoc
+  - pip
+  - python
+  - rdkit
+  - cython
+  - nbsphinx
+  - networkx
+  - recommonmark
+  - seaborn
+  - sphinx
+  - tqdm
+  - pip:
+    - pyvis
+    - py3Dmol
+

@@ -2,6 +2,6 @@ numpy
 matplotlib
 panda
 mdanalysis
-rdkit
+python-rdkit
 scipy
 tdqm

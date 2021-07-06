@@ -1,0 +1,5 @@
+name: prolif
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/ngillet/anaconda3/envs/prolif
